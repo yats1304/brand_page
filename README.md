@@ -1,4 +1,4 @@
-# Nike Front Page Clone 🏀
+# Nike Front Page Clone 
 
 This is a simple front-end clone of the Nike homepage built using *Vite, **React, **HTML, and **CSS*.  
 The project is focused on replicating the UI layout and visual design of Nike's landing page.
