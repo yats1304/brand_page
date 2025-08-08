@@ -14,4 +14,5 @@ The project is focused on replicating the UI layout and visual design of Nike's 
 
 ## 📸 Screenshot
 
-<img width="1888" height="926" alt="image" src="https://github.com/user-attachments/assets/e42d0fe3-ca0b-4457-97ff-82adb6a4ad69" />
+<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/52dd85ed-ea25-4931-9b8e-937e3d97340c" />
+
