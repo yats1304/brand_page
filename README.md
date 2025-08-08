@@ -14,5 +14,4 @@ The project is focused on replicating the UI layout and visual design of Nike's 
 
 ## 📸 Screenshot
 
-![Nike Front Page Clone Screenshot]
 <img width="1888" height="926" alt="image" src="https://github.com/user-attachments/assets/e42d0fe3-ca0b-4457-97ff-82adb6a4ad69" />
